@@ -1,0 +1,10 @@
+<distributionManagement>
+   <snapshotRepository>
+       <id>maven-snapshots</id>
+       <url>http://nexus-cicd-ocpadmin.apps.cluster-crxbz.sandbox1198.opentlc.com/repository/maven-snapshots/</url>
+   </snapshotRepository>
+   <repository>
+       <id>maven-releases</id>
+       <url>http://nexus-cicd-ocpadmin.apps.cluster-crxbz.sandbox1198.opentlc.com/repository/maven-releases/</url>
+   </repository>
+</distributionManagement>
